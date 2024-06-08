@@ -8,7 +8,9 @@ This project aims to enhance snack bar operations by providing functionalities f
 
 ## Demo Application
 
-Explore our [front-end web application](https://foodservice-api.azurewebsites.net/) and [API Swagger documentation](https://foodserviceapi20240506113327.azurewebsites.net/swagger/index.html) to experience the features of FoodService firsthand.
+~~Explore our [front-end web application](https://foodservice-api.azurewebsites.net/) and [API Swagger documentation](https://foodserviceapi20240506113327.azurewebsites.net/swagger/index.html) to experience the features of FoodService firsthand.~~ 
+
+Note: The front-end web application and API Swagger documentation are currently offline. We apologize for the inconvenience and are working to resolve the issue as soon as possible.
 
 ## Documentation
 
